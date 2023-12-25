@@ -11,4 +11,4 @@ Click the button below to start a new development environment:
 ## Whats Included
  - SvelteKit
  - Typescript Support
- - TailwindCSS with DaisyUI (via ![Svelte Add](https://github.com/svelte-add/tailwindcss))
+ - TailwindCSS with DaisyUI (via [Svelte Add](https://github.com/svelte-add/tailwindcss))
