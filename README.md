@@ -12,3 +12,4 @@ Click the button below to start a new development environment:
  - SvelteKit
  - Typescript Support
  - TailwindCSS with DaisyUI (via [Svelte Add](https://github.com/svelte-add/tailwindcss))
+ - All dependencies set to "latest" in package.json. Change when moving from development.
