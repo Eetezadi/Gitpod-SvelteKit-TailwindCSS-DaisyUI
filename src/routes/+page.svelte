@@ -1,16 +1,14 @@
-<h1>FBS-MVP</h1>
-<p>Lets start this journey with Svelte... :)</p>
 
-<h1>Lets say Hi to DaysiUI...</h1>
+<script>
+    let greeting = "Hello, World!";
+</script>
 
-<div class="mockup-phone">
-	<div class="camera"></div>
-	<div class="display">
-		<div class="artboard artboard-demo phone-1">
-			Hi, I am DaysiUI and I brought 3 buttons:
-			<button class="btn btn-primary">One</button>
-			<button class="btn btn-secondary">Two</button>
-			<button class="btn btn-accent btn-outline">Three</button>
-		</div>
-	</div>
-</div>
+<style>
+    h1 {
+        font-size: xx-large;
+    }
+</style>
+
+<h1>Svelte Kit Gitpod Boilerplate</h1>
+<img src="favicon.png" alt="Favicon"/>
+<p>{greeting} Lets start your journey...</p>
